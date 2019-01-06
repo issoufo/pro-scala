@@ -25,7 +25,7 @@ Avant tout il est important de noter :
 ```
    ##### HandleFile :
 ```
-Contient 2 fonctions publiques et plusieurs privés permettant de vérifier l'intégrité de données.
+Contient 2 fonctions publiques et plusieurs privés permettant de vérifier l'intégrité de données. Ci-dessous les 2 fonctions publiques :
     -- La fonction buildLawn : permet de lire et récupérer le contenu du fichier et constuit la pelouse à partir de données de la première
         ligne du fichier. Cette ligne doit être composée de seulement 2 élements qui doivent être des nombres entiers positifs sinon aucune 
         pelouse n'est construite et donc aucune tondeuse aussi.  
@@ -51,7 +51,7 @@ Contient 2 fonctions publiques et plusieurs privés permettant de vérifier l'in
    ##### HandleMower :
 ```
 Contient une fonction publique et 2 privés(une permettant de calculer la nouvelle direction d'une tondeuse donnée et 
-une permettant de calculer les nouvelles coordonnées d'une tondeuse donnée.)
+une permettant de calculer les nouvelles coordonnées d'une tondeuse donnée.). Ci-dessous la fonction publique :
     -- La fonction move : permet de modifier la direction ou la position d'une tondeuse.  
 ```
 

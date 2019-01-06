@@ -67,7 +67,7 @@ Est le point d'entrée de l'application. Il utilise les fonctions publiques de H
     1. Il faut tout d'abord installer SBT si ce n'est déjà fait.
     2. Se rendre dans le répertoire du projet
     3. Exécuter la commande "sbt" ce qui ouvrira la console sbt
-    4. Taper ~run ou run selon que l'on veut une réexécution automatique ou non de sbt à chaque modification dans un fichier donné.
+    4. Taper ~run ou run selon que l'on veut une réexécution automatique ou non du sbt à chaque modification dans un fichier donné.
 ```
 
    ##### Deuxième méthode : Avec l'IDE IntelliJ

@@ -23,7 +23,6 @@ Avant tout il est important de noter :
     3 3 E
     
 ```
-
    ##### HandleFile :
 ```
 Contient 2 fonctions publiques et plusieurs privés permettant de vérifier l'intégrité de données.
@@ -62,6 +61,8 @@ Est le point d'entrée de l'application. Il utilise les fonctions publiques de H
 ```
 
 ### Compiler/Exécuter/Tester :
+Récupérer d'abord le projet en faisant "git clone https://github.com/issoufo/pro-scala-m2.git" ou le télécharger au format ZIP
+
    ##### Première méthode : En ligne de commande
 ```
     1. Il faut tout d'abord installer SBT si ce n'est déjà fait.

@@ -1,4 +1,4 @@
-name := "projetScala"
+name := "pro-scala-m2"
 
 version := "0.1"
 

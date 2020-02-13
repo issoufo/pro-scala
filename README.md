@@ -61,7 +61,7 @@ Est le point d'entrée de l'application. Il utilise les fonctions publiques de H
 ```
 
 ### Compiler/Exécuter/Tester :
-Récupérer d'abord le projet en faisant "git clone https://github.com/issoufo/pro-scala-m2.git" ou le télécharger au format ZIP
+Récupérer d'abord le projet en faisant "git clone https://github.com/issoufo/pro-scala.git" ou le télécharger au format ZIP
 
    ##### Première méthode : En ligne de commande
 ```
